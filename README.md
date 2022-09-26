@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+For now this is just a collection of repositories for codes I've developed over the last years for physics research.
+
+<!--
+blabla
+-->
+
 <!--
 **asierpinor/asierpinor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
