@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-For now this is just a collection of for codes I've developed over the last few years during as a physics researcher.
+For now this is just a collection of for codes I've developed over the last few years as a physics researcher.
 
 **This is just to showcase some of my coding work.**
 
