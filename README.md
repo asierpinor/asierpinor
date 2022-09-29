@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-For now this is just a collection of repositories for codes I've developed over the last years for physics research.
+For now this is just a collection of for codes I've developed over the last few years during as a physics researcher.
+
+This is just to showcase some of my coding work. The codes are commented, but are not self-explanatory, nor documented.
 
 <!--
 blabla
